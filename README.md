@@ -1,5 +1,8 @@
 <h1 align='center'>Hi 👋, I'm Victor🎈</h1>
 <h3>React Front-End Developer from Saint Petersburg</h3>
+<p>
+I'm final year graduate student of Saint Petersburg State Institute of Technology. I study at the Department of System Analysis and Management.
+</p>
 <p>I’m currently learning </p>
 <ul>
   <li><b>Redux Toolkit</b></li>
