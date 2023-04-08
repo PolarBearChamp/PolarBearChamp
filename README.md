@@ -8,10 +8,7 @@ I'm final year graduate student of Saint Petersburg State Institute of Technolog
   <li><b>Redux Toolkit</b></li>
   <li><b>Next.js</b></li>
 </ul>
-<!--
-<h3 align="left">Connect with me:</h3>
-<p align="left"><a href='https://t.me/frameq'><img src="https://img.shields.io/badge/Telegram-gray?style=for-the-badge&logo=Telegram&logoColor=26A5E4"/></a></p>
--->
+
 <h3 align="left">Languages and Tools:</h3>
 <div display="flex">
   <p/>
@@ -33,5 +30,6 @@ I'm final year graduate student of Saint Petersburg State Institute of Technolog
   <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
   <p/>
   <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=4479A1"/>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PolarBearChamp&label=Profile%20views&color=blueviolet&style=flat-square&label=Beautiful+People" alt="PolarBearChamp" /> </p>
