@@ -1,12 +1,12 @@
 <h1 align='center'>Hi 👋, I'm Victor🎈</h1>
-<h3>React Front-End Developer from Saint Petersburg</h3>
+<h3>Fullstack Developer from Saint Petersburg</h3>
 <p>
-I'm final year graduate student of Saint Petersburg State Institute of Technology. I study at the Department of System Analysis and Management.
+I'm currently studying for a master's degree at the Saint Petersburg State Institute of Technology. I study at the Department of System Analysis and Management.
 </p>
 <p>I’m currently learning </p>
 <ul>
-  <li><b>Redux Toolkit</b></li>
   <li><b>Next.js</b></li>
+  <li><b>Nuxt.js</b></li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
